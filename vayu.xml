@@ -5,6 +5,7 @@
     <project path="hybris/droid-hal-version-vayu" name="SailfishOS-vayu/droid-hal-version-vayu" revision="master" />
     <remove-project path="hybris/hybris-boot" name="mer-hybris/hybris-boot" />
     <project path="hybris/hybris-boot" name="SailfishOS-vayu/hybris-boot" revision="master" />
+    <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" revision="lineage-18.1" />
     <project path="kernel/xiaomi/sm8150" name="SailfishOS-vayu/android_kernel_xiaomi_sm8150" revision="hybris-18.1" />
     <project path="device/xiaomi/sm8150-common" name="SailfishOS-vayu/android_device_xiaomi_sm8150-common" revision="hybris-18.1" />
     <project path="device/xiaomi/vayu" name="SailfishOS-vayu/android_device_xiaomi_vayu" revision="hybris-18.1" />
