@@ -11,6 +11,8 @@
     <project path="device/xiaomi/vayu" name="SailfishOS-vayu/android_device_xiaomi_vayu" revision="hybris-18.1" />
     <project path="vendor/xiaomi" name="SailfishOS-vayu/android_vendor_xiaomi" revision="hybris-18.1" />
     <project path="external/libhybris" name="mer-hybris/libhybris" revision="master" />
+    <!-- Custom hybris installer implementation (https://git.io/fjMH9) -->
+    <project path="hybris/hybris-installer" name="SailfishOS-vayu/hybris-installer" revision="master" />
     <!-- Custom fingerprint -->
     <project path="hybris/mw/sailfish-fpd-community" name="sailfishos-open/sailfish-fpd-community" revision="master" />
 	<project path="external/fake_crypt" name="erfanoabdi/fake_crypt" revision="master" />
