@@ -15,5 +15,5 @@
     <project path="hybris/hybris-installer" name="SailfishOS-vayu/hybris-installer" revision="master" />
     <!-- Custom fingerprint -->
     <project path="hybris/mw/sailfish-fpd-community" name="sailfishos-open/sailfish-fpd-community" revision="master" />
-	<project path="external/fake_crypt" name="erfanoabdi/fake_crypt" revision="master" />
+	<project path="external/fake_crypt" name="SailfishOS-vayu/fake_crypt" revision="master" />
 </manifest>
